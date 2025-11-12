@@ -1,6 +1,8 @@
 ## Info: 
 Tkinter application Python 3.13.9.
-It's just a timer app that I made for myself
+
+It's just a timer app
+![Simple Mode](https://files.catbox.moe/ka88m3.png) ![Full Mode](https://files.catbox.moe/zgzj6o.png)
 
 ## Other files: 
 click.wav (tick sound)
