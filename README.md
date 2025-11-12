@@ -1,5 +1,6 @@
 ## Info: 
-Packaged tkinter application (exe file). Windows. Python 3.13.9.
+Tkinter application Python 3.13.9.
+It's just a timer app that I made for myself
 
 ## Other files: 
 click.wav (tick sound)
