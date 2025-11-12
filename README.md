@@ -1,8 +1,8 @@
 ## Info: 
 Tkinter application Python 3.13.9.
 
-It's just a timer app
-![Simple Mode](https://files.catbox.moe/ka88m3.png) ![Full Mode](https://files.catbox.moe/zgzj6o.png)
+It's just a timer app /n
+![Simple Mode](https://files.catbox.moe/ka88m3.png) /n ![Full Mode](https://files.catbox.moe/zgzj6o.png)
 
 ## Other files: 
 click.wav (tick sound)
