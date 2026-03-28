@@ -14,4 +14,5 @@ Work Timer (Blue) with cost calculator, Break Timer (Red), Simple Mode/Full Mode
 ❗V2 addition: Sketch sound toggle for immersion when drawing
 
 ## Additional Notes: 
-Put click.wav on the same folder as the exe file if you want ticking sounds. Ignore this for version 2.
+v1 - Put click.wav on the same folder as the exe file if you want ticking sounds. Ignore this for version 2. /n
+v2 - Only need exe file to use. Note: It will auto-create a json file where the exe is located "timer_state.json" in order to load/save the timer state.
