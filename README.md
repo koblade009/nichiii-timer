@@ -11,6 +11,7 @@ timer_state.json (will auto-create if missing)
 
 ## Features: 
 Work Timer (Blue) with cost calculator, Break Timer (Red), Simple Mode/Full Mode, Stay On Top Toggle, Automatic Save/Load State, Tick Sound Toggle, Resettable Timer
+❗V2 addition: Sketch sound toggle for drawing
 
 ## Additional Notes: 
 Put click.wav on the same folder as the exe file if you want ticking sounds.
