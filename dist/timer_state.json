@@ -1,0 +1,12 @@
+{
+    "hourly_rate": 100.0,
+    "currency": "\u20b1",
+    "work_elapsed": 7.448007583618164,
+    "break_elapsed": 0.0,
+    "running": {
+        "work": false,
+        "break": false
+    },
+    "pencil_enabled": false,
+    "pencil_volume": 1.0
+}
